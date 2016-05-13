@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "b-spline": "^1.0.5",
+    "binary-search-bounds": "^2.0.3",
     "bisect": "^1.0.0",
     "d3": "^3.5.16",
     "minimize-golden-section-1d": "^1.0.2",

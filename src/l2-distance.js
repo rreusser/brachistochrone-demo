@@ -10,6 +10,6 @@ function l2Distance (a, b) {
     diff = a[i] - b[i];
     sum += diff * diff;
   }
-  return sum;
+  return Math.sqrt(sum);
 }
 
