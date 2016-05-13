@@ -1,7 +1,7 @@
 {
-  "name": "principle-of-least-action-demo",
+  "name": "brachistochrone-demo",
   "version": "1.0.0",
-  "description": "A D3 demo to illustrate the Principle of Least Action",
+  "description": "A demo to illustrate the brachistochrone, the curve of fastest descent.",
   "main": "index.js",
   "scripts": {
     "start": "budo src/index.js:bundle.js --live --open --dir src",
