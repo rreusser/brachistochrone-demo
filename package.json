@@ -13,8 +13,8 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ricky Reusser",
+  "license": "MIT",
   "dependencies": {
     "b-spline": "^1.0.5",
     "binary-search-bounds": "^2.0.3",
